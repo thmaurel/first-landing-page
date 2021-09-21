@@ -1,0 +1,13 @@
+.avatar {
+  border-radius: 50%;
+  box-shadow: 5px 5px 10px black;
+  height: 50px;
+  width: 50px;
+}
+
+.small-avatar {
+  border-radius: 50%;
+  box-shadow: 5px 5px 10px black;
+  height: 30px;
+  width: 30px;
+}

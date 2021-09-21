@@ -1,0 +1,23 @@
+.white-btn {
+  color: white;
+  background-color:  white;
+  border-radius: 5px;
+  padding:  10px 20px;
+  opacity: 0.7;
+}
+
+.white-btn:hover {
+  opacity: 1;
+}
+
+.white-border-btn {
+  color: white;
+  border: 1px solid white;
+  border-radius: 5px;
+  padding:  10px 20px;
+  opacity: 0.7;
+}
+
+.white-border-btn:hover {
+  opacity: 1;
+}

@@ -1,0 +1,24 @@
+.card {
+  width: 300px;
+  box-shadow: 3px 3px 10px black;
+  border-radius: 5px;
+}
+
+.card-picture {
+  width: 100%;
+}
+
+.card-avatar {
+  position: absolute;
+  top: -19px;
+  right: 10px;
+}
+
+.card-infos {
+  position: relative;
+  padding: 10px;
+}
+
+.card-infos h2 {
+  margin-top: 0;
+}
