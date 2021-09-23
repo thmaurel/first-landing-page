@@ -5,6 +5,9 @@
 @import 'components/banner.css';
 @import 'components/card.css';
 @import 'components/navbar.css';
+@import 'components/counter.css';
+@import 'components/clock.css';
+
 
 a {
   text-decoration: none;
