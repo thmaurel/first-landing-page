@@ -1,4 +1,3 @@
-alert("Today's date is " + d);
 // 1. Change button's content and style on click
   // Select the button in the banner
   const btn = document.querySelector('#banner-btn')
@@ -44,6 +43,3 @@ alert("Today's date is " + d);
     // Make content looks inactive
     navbarContent.classList.remove('active')
   })
-
-
-let d = new Date();
