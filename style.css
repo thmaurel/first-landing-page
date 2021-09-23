@@ -4,6 +4,7 @@
 @import 'components/container.css';
 @import 'components/banner.css';
 @import 'components/card.css';
+@import 'components/navbar.css';
 
 a {
   text-decoration: none;
@@ -24,22 +25,6 @@ h1, h2, h3, h4 {
 
 .hidden {
   display: none;
-}
-
-.homepage-navbar {
-  display: flex;
-  height: 80px;
-  justify-content: space-evenly;
-  align-items: center;
-  font-size: 24px;
-}
-
-.content, .about {
-  opacity: 0.5;
-}
-
-.active {
-  opacity: 1;
 }
 
 /*.rectangle {
